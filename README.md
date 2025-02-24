@@ -22,3 +22,13 @@ HTML Rev - https://htmlrev.com/
 ## Responsividade
 
 - 𝗥𝗲𝗮𝗰𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲
+
+When working on a project, I use this quick and effective method to build a foundational color system. 
+
+It includes:
+
+👉 Primary color – The main brand or UI color that sets the tone.
+👉 Secondary color – A complementary hue that works well with the primary color.
+👉 Neutral color – A balanced tone for backgrounds, or subtle elements.
+👉 Black & white – Essential for contrast, accessibility, and flexibility.
+👉 Main colors – A set of colors consisting of primary, secondary, neutral, black, and white.
